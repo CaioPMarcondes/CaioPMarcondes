@@ -5,7 +5,7 @@ Olá, meu nome é Caio Pravatta, sou estudante de **Análise e desenvolvimento d
 
 
 </samp>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4yMmdkczBqenlycmx0ejg5ZDc5dHB0aDdvMDAzN2FvcDV6ODVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2evHZ2EvAV5m/giphy.gif" width="140"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4yMmdkczBqenlycmx0ejg5ZDc5dHB0aDdvMDAzN2FvcDV6ODVociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2evHZ2EvAV5m/giphy.gif" width="160"/>
   <br>
   <br>
 </div>
