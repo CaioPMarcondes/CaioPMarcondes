@@ -1,5 +1,5 @@
 ### Bem-vindo(a)!
-Olá, meu nome é Caio Pravatta, sou estudante de **Análise e desenvolvimento de Sistemas** (5/6) na [Fatec Itu](https://www.cps.sp.gov.br/fatecs/fatec-itu-dom-amaury-castanho/)🤙
+Olá, meu nome é Caio Pravatta, sou estudante de **Análise e desenvolvimento de Sistemas** (6/6) na [Fatec Itu](https://www.cps.sp.gov.br/fatecs/fatec-itu-dom-amaury-castanho/)🤙
 
 <div align= "center">
 
