@@ -10,16 +10,7 @@ Olá, meu nome é Caio Pravatta, sou estudante de **Análise e desenvolvimento d
   <br>
 </div>
 
-<table>
-  <tbody>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CaioPMarcondes&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPMarcondes&layout=donut&theme=tokyonight"/>
-    </td>
-  </tbody>
-</table>
+
 
 ## Tecnologias 💻
 <div style="display: inline_block">
